@@ -1,15 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> This is a project containing several file such as: 
+1. index.html
+2. style.css
+3. linters.yml
+
+    This project was built to display a header which included a h1 which contains the text "Hello Microverse" and was then added a color which is my favorite.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- Visual Studio Code
 
 ## Live Demo (if available)
 
@@ -25,16 +29,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+    You only need a good computer with a browser and VS Code.
 
 
 
@@ -42,32 +37,13 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@wadaudzai](https://github.com/wadaudzai)
+- Twitter: [@wadaudzai](https://twitter.com/wadaudzai)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdulrahman-daudzai-490421234/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
