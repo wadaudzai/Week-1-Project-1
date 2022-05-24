@@ -22,8 +22,11 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Dear User, in order to be able to open this project in your device kindly click on the green code button and select between the given options: 
+1. Open in Github Desktop.
+2. Download the ZIP file and open it in VS Code.
+3. Copy the SSH link and clone it in your terminal or powershell.
+
 
 
 To get a local copy up and running follow these simple example steps.
